@@ -1,0 +1,14 @@
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\bin\Debug\net8.0\program4.exe
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\bin\Debug\net8.0\program4.deps.json
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\bin\Debug\net8.0\program4.runtimeconfig.json
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\bin\Debug\net8.0\program4.dll
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\bin\Debug\net8.0\program4.pdb
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\program4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\program4.AssemblyInfoInputs.cache
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\program4.AssemblyInfo.cs
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\program4.csproj.CoreCompileInputs.cache
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\program4.dll
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\refint\program4.dll
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\program4.pdb
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\program4.genruntimeconfig.cache
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program4\obj\Debug\net8.0\ref\program4.dll

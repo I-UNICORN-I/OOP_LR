@@ -1,0 +1,14 @@
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\bin\Debug\net8.0\program2.exe
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\bin\Debug\net8.0\program2.deps.json
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\bin\Debug\net8.0\program2.runtimeconfig.json
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\bin\Debug\net8.0\program2.dll
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\bin\Debug\net8.0\program2.pdb
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\program2.AssemblyInfoInputs.cache
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\program2.AssemblyInfo.cs
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\program2.csproj.CoreCompileInputs.cache
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\program2.dll
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\refint\program2.dll
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\program2.pdb
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\program2.genruntimeconfig.cache
+C:\Users\Dima PC\Desktop\ХНУ\2 курс\ООП\VS2022\program2\obj\Debug\net8.0\ref\program2.dll
